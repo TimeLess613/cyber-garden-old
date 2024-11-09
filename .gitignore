@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+content/.obsidian
+content/Pentesting/writeup/active/HTB-*
+content/Pentesting/writeup/attackpath/*.xmind
