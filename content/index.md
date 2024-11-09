@@ -1,4 +1,6 @@
-此网页以渗透测试学习为起点，逐步添加相关知识。
+
+
+此网站·知识库本意为记录[[basic-concepts|渗透测试]]学习经历，后以此为起点，逐步整合过去的与此相关的知识。
 
 ## 靶机平台
 
@@ -6,6 +8,8 @@
   <img src="https://www.hackthebox.com/badge/image/688543" alt="HTB_badge_688543">
   <script src="./static/js/THM_badge_585269.js"></script> 
 </div>
+
+HTB writeup：[[writeup-template]]
 
 ## Certificates 
 
